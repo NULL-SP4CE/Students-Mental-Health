@@ -1,0 +1,10 @@
+Students_meantal_health_analysis_list
+
+(1) Determining which gender of students has the highest depression count and the corresponding average age. 
+(2) Determining whether students suicidal thoughts depend on eating habits and sleep duration.
+(3) Finding degrees where the average study and work time is more than 7 hours in a day.
+(4) Finding duplicate on table using window fuction
+(5) Finding and ranking all males with financial stress greater than or equal 5(change all NULL value to 0)
+(6) Finding students who sleep less than 5 hours, have unhealthy dietary habits, and also experience suicidal thoughts and financial stress.
+(7) ranking students cgpa above 7.99 and finicial stress more than 4 by genders 
+(8) finding students total work, study hours according to degree by gender
