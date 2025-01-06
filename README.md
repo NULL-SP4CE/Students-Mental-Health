@@ -8,7 +8,7 @@ This project involves a comprehensive analysis of students mental health data us
 
 The data for this project is sourced from the Kaggle dataset:
 
-- **Dataset Link:** [Super-market Sale](https://www.kaggle.com/datasets/hopesb/student-depression-dataset/code)
+- **Dataset Link:** [Students_mental_health](https://www.kaggle.com/datasets/hopesb/student-depression-dataset/code)
 
 
 ## Problems and Solutions 
